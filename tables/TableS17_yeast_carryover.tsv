@@ -1,0 +1,14 @@
+season	arm	n	median_yeast_RPM	max_yeast_RPM	n_samples_zero	total_yeast_reads
+Winter	plastic	15	0.157	6.854	2	501
+Winter	surface_control	15	0.212	14.142	6	837
+Winter	bulk_control	15	0.816	3.612	0	542
+Spring	plastic	15	0.788	14.800	1	2005
+Spring	surface_control	15	0.235	51.684	2	2353
+Spring	bulk_control	15	0.353	6.324	0	626
+Summer	plastic	15	17.297	4047.624	0	325748
+Summer	surface_control	15	0.651	5.403	0	754
+Summer	bulk_control	15	0.745	21.963	0	2017
+Autumn	plastic	15	0.662	51.110	1	4158
+Autumn	surface_control	15	0.301	13.983	0	1350
+Autumn	bulk_control	15	0.466	2.155	0	312
+ALL	summer_plastic_share_pct	180	95.5			341203

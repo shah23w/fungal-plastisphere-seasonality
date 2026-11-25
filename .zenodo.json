@@ -1,0 +1,49 @@
+{
+  "title": "Season shapes fungal enrichment on riverine microplastics relative to co-collected natural particles: analysis code and derived data",
+  "upload_type": "software",
+  "description": "Analysis code, derived data tables and figures for <em>Season shapes fungal enrichment on riverine microplastics relative to co-collected natural particles</em>. The analysis is a reanalysis of publicly archived shotgun metagenomes; no new sequencing was performed. Sequence data are archived under NCBI BioProjects PRJNA1159715 and PRJNA1330252.",
+  "license": "mit",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Shah, Sakhawat",
+      "affiliation": "Huazhong Agricultural University",
+      "orcid": "0000-0003-0275-5450"
+    },
+    {
+      "name": "Chen, Yi-Jia",
+      "affiliation": "Huazhong Agricultural University"
+    },
+    {
+      "name": "Liu, Shu-Han",
+      "affiliation": "Huazhong Agricultural University"
+    },
+    {
+      "name": "Zhao, Jin-Ru",
+      "affiliation": "Huazhong Agricultural University"
+    },
+    {
+      "name": "Haq, Muhammad Manzoor ul",
+      "affiliation": "Huazhong Agricultural University"
+    },
+    {
+      "name": "Huang, Qiu-Ying",
+      "affiliation": "Huazhong Agricultural University"
+    },
+    {
+      "name": "Yang, Feng-Lian",
+      "affiliation": "Huazhong Agricultural University",
+      "orcid": "0000-0001-8980-9495"
+    }
+  ],
+  "keywords": [
+    "microplastics",
+    "plastisphere",
+    "mycobiome",
+    "urban rivers",
+    "Kraken2",
+    "metagenomics",
+    "antifungal resistance",
+    "Pichia kudriavzevii"
+  ]
+}

@@ -1,0 +1,13 @@
+quantity	value	n
+mean_dlog2_rate_Winter	0.5142	15
+mean_dlog2_rate_Spring	0.0060	15
+mean_dlog2_rate_Summer	0.2236	15
+mean_dlog2_rate_Autumn	-0.1179	15
+withinsite_slope_dlog2rate_per_C	-0.0488	15
+withinsite_slope_CI_low	-0.1450	15
+withinsite_slope_CI_high	0.0474	15
+withinsite_slope_P	0.2952	15
+sites_positive	7	15
+sign_test_P	1.0000	15
+our_fungal_slope	0.4133	15
+classified_denominator_slope	0.4621	15

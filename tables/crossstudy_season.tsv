@@ -1,0 +1,11 @@
+study	system	lat	hemisphere	months	season	multi_season
+PRJNA1163745	Auckland marina	-36.85	S	03,06,09,12	Winter/Spring/Summer/Autumn	yes
+PRJEB37023	Baltic Sea	54.18	N	03,04	Spring	yes
+PRJNA1330252	Hong Kong (3 seasons)	22.45	N	05,08,10	Spring/Summer/Autumn	yes
+PRJNA1159715	Hong Kong (winter)	22.51	N	02	Winter	no
+PRJNA1134258	NZ WWTP pond	-43.32	S	01,07,08	Winter/Summer	yes
+PRJNA1028102	Shenzhen river	22.50	N	NA	unknown	no
+PRJEB52400	UK river (Sowe)	52.40	N	02	Winter	no
+PRJEB90275	UK rivers/coast	50.16	N	04	Spring	no
+PRJNA1293120	marine pumice	33.15	N	09	Autumn	no
+PRJNA1216377	wastewater	41.81	N	05	Spring	no

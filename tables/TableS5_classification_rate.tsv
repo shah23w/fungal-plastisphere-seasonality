@@ -1,0 +1,5 @@
+season	n_blocks	median_pct_MP	median_pct_NP	median_pct_RW	diff_of_medians_points	mean_of_block_diffs_points	mean_of_block_log2_rate_ratio
+Winter	15	10.64	9.33	6.69	1.300	3.322	0.5142
+Spring	15	7.25	8.23	5.15	-0.980	-1.385	0.0060
+Summer	15	5.92	5.27	3.96	0.653	2.070	0.2236
+Autumn	15	9.31	12.22	6.19	-2.905	-0.711	-0.1179

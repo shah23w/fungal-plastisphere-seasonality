@@ -1,0 +1,9 @@
+quantity	value	n
+bact_endpoint_vs_classrate_r	0.9986	60
+bact_endpoint_vs_classrate_R2	0.9971	60
+agree_rMAGs_ge_10	4/5	5
+agree_rMAGs_lt_10	6/10	10
+agree_rMAGs_ge_20	4/5	5
+agree_rMAGs_lt_20	6/10	10
+agree_rMAGs_ge_50	4/4	4
+agree_rMAGs_lt_50	6/11	11

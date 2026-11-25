@@ -1,0 +1,7 @@
+genus	documented_Tmax_C	n_sites	plastic_slope	plastic_t	plastic_P	plastic_P_holm	difference_slope	difference_t	difference_P	difference_P_holm
+Pichia	45.0	15	0.8062	7.138	5.02e-06	0.0001	0.5983	4.207	0.000879	0.0079
+Lodderomyces	37.0	15	0.5359	5.782	4.75e-05	0.0005	0.5466	4.841	0.000261	0.0026
+Yarrowia	32.0	15	0.1979	1.728	0.106	0.3177	0.3589	2.633	0.0197	0.118
+Candida	45.0	15	0.3863	3.885	0.00165	0.0132	0.3558	2.602	0.0209	0.118
+Torulaspora	35.0	15	0.2179	2.532	0.0239	0.118	0.2591	2.989	0.00976	0.0683
+Debaryomyces	35.0	15	0.0747	1.279	0.222	0.3177	0.131	1.533	0.147	0.3177

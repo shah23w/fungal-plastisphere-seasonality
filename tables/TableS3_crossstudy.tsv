@@ -1,0 +1,11 @@
+study	system	control	n_plastic	n_surface_control	diff_log2	se	ci_lo	ci_hi	sampling_months	season_sampled	multi_season
+PRJNA1163745	Auckland marina	glass	88	9	-0.0847	0.2297	-0.5440	0.3747	03,06,09,12	Winter/Spring/Summer/Autumn	yes
+PRJEB37023	Baltic Sea	wood	8	4	0.8778	0.3138	0.2093	1.5462	03,04	Spring	yes
+PRJNA1330252	Hong Kong (3 seasons)	natural particle	45	45	1.2464	0.4626	0.3212	2.1715	05,08,10	Spring/Summer/Autumn	yes
+PRJNA1159715	Hong Kong (winter)	natural particle	15	15	-1.2215	0.8451	-3.0215	0.5785	02	Winter	no
+PRJNA1134258	NZ WWTP pond	glass	60	11	-0.1594	0.6453	-1.4500	1.1312	01,07,08	Winter/Summer	yes
+PRJNA1028102	Shenzhen river	wood	15	4	-4.4898	1.9074	-8.5525	-0.4272	NA	unknown	no
+PRJEB52400	UK river (Sowe)	wood	6	3	-0.8938	0.2467	-1.4514	-0.3362	02	Winter	no
+PRJEB90275	UK rivers/coast	wood+glass	10	7	-0.9795	0.6268	-2.3146	0.3555	04	Spring	no
+PRJNA1293120	marine pumice	pumice	5	2	0.4831	0.3506	-0.3759	1.3421	09	Autumn	no
+PRJNA1216377	wastewater	glass	20	4	-0.1243	0.1599	-0.4649	0.2163	05	Spring	no

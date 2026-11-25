@@ -1,0 +1,26 @@
+item	file	content	data_rows
+S1	TableS1_blocks.tsv	blocks	60
+S2	TableS2_detection_envelope.tsv	detection envelope	859
+S3	TableS3_crossstudy.tsv	crossstudy	10
+S4	TableS4_second_system.tsv	second system	6
+S5	TableS5_classification_rate.tsv	classification rate	4
+S6	TableS6_denominator_bias.tsv	denominator bias	12
+S7	TableS7_mock2x2.tsv	mock2x2	45
+S8	TableS8_spikein_recovery.tsv	spikein recovery	49
+S9	TableS9_covariates.tsv	covariates	19
+S10	TableS10_slope_sensitivity.tsv	slope sensitivity	34
+S11	TableS11_env_correlation.tsv	env correlation	120
+S12	TableS12_interaction_tests.tsv	interaction tests	2
+S13	TableS13_season_summary.tsv	season summary	4
+S14	TableS14_site_slopes.tsv	site slopes	16
+S15	TableS15_fungal_genera.tsv	fungal genera	686
+S16	TableS16_species_coverage.tsv	species coverage	40
+S17	TableS17_yeast_carryover.tsv	yeast carryover	13
+S18	TableS18_index_coverage.tsv	index coverage	148
+S19	TableS19_classrate_confound.tsv	classrate confound	13
+S20	TableS20_structure.tsv	structure	34
+S21	TableS21_bacterial_disclosures.tsv	bacterial disclosures	8
+S22	TableS22_bacterial_blocks.tsv	bacterial blocks	60
+S23	TableS23_phylum_concordance.tsv	phylum concordance	15
+S24	TableS24_thermotolerance.tsv	thermotolerance	6
+S25	TableS25_genus_matrix_180.tsv	genus matrix 180	3212

@@ -1,0 +1,35 @@
+analysis	description	estimate	t	df	P	note
+all_four_seasons_15_sites	15 site slopes, one-sample t	0.4133	3.093	14	0.0079	13/15
+river_clustered_10_rivers	slopes averaged within river first	0.4262	2.750	9	0.0225	9/10
+leave_one_site_out	range of P across 15 deletions	0.4133		14	0.0019-0.0168	15/15 retain P<0.05
+summer_dropped	winter, spring, autumn only	0.3106	2.623	14	0.0200	12/15
+winter_dropped	spring, summer, autumn only	0.8785	3.315	14	0.0051	13/15
+within_season_winter	contrast vs temperature across 15 sites	r=+0.156		13	0.580	temp range 18.0-23.0 C
+within_season_spring	contrast vs temperature across 15 sites	r=+0.166		13	0.554	temp range 23.4-29.4 C
+within_season_summer	contrast vs temperature across 15 sites	r=+0.026		13	0.926	temp range 28.1-31.9 C
+within_season_autumn	contrast vs temperature across 15 sites	r=+0.093		13	0.743	temp range 24.4-29.4 C
+pooled_within_season	temperature with season fixed effects	0.1788	0.727	55	0.470	95% CI -0.314 to 0.671; df = 60 - 1 - 4 season levels
+sitedemeaned_temp_only	site-demeaned, temperature only	0.3763	3.583	44	0.00084	df = 60 - 1 - 15 absorbed site means
+sitedemeaned_temp_plus_season	site-demeaned, temperature given season	0.0330	0.091	41	0.928	temperature adds nothing; df = 60 - 4 - 15 absorbed site means
+interaction_all_fungi	season x substrate, all fungal reads	F=6.064		3,42	0.0016	
+interaction_pichia_removed	season x substrate, Pichia reads removed	F=4.790		3,42	0.0058	effect is not one genus
+rain_1d_pooled	1-day antecedent rainfall, season fixed effects	-0.0708		55	0.435	per mm, territory mean
+rain_3d_pooled	3-day antecedent rainfall, season fixed effects	+0.0319		55	0.309	per mm, territory mean
+rain_7d_pooled	7-day antecedent rainfall, season fixed effects	+0.0171		55	0.480	per mm, territory mean
+interaction_adj_rain_1d	interaction after removing 1-day rainfall	F=6.184		3,42	0.0014	survives
+interaction_adj_rain_3d	interaction after removing 3-day rainfall	F=4.294		3,42	0.0099	survives
+interaction_adj_rain_7d	interaction after removing 7-day rainfall	F=2.924		3,42	0.0448	survives; 7-day rain correlates with temperature r=+0.66
+cyclone_lag_summer	days since 29 Jul 2023 vs summer contrast	r=-0.210		13	0.453	reference date = heaviest-rainfall day of the Doksuri period (36.9 mm territory mean)
+cyclone_window_summer	summer blocks within 6 d of 29 Jul 2023 vs later	U=32.0		10 vs 5	0.440	Mann-Whitney two-sided; medians 2.314 vs 0.909 log2
+antecedent_rain_7d_by_season	mean 7-day antecedent rainfall per campaign	0.8/42.4/55.4/15.9				mm, winter/spring/summer/autumn; mean over the 15 blocks of each campaign; territory index of 25 HKO stations; spring and summer comparable
+spring_summer_effect_gap	difference in mean block contrast, spring vs summer	3.307				log2 units; the two campaigns with comparable antecedent rainfall
+floor_sensitivity_0.00	interaction with no false-positive correction	F=6.209		3,42	0.00137	floor sensitivity series
+floor_sensitivity_0.30	interaction at the all-strata mock mean floor	F=5.892		3,42	0.00189	0.30 per million
+floor_sensitivity_0.45	interaction at the out-of-database eukaryote floor	F=5.601		3,42	0.00253	0.45 per million; most conservative estimable floor
+interaction_leave_one_site_out	interaction refitted across the 15 single-site deletions	F=4.55-9.27		3,39	0.00009-0.0079	all 15 retain P<0.05; Friedman 0.00081-0.00865
+interaction_within_deposit	spring, summer, autumn only (PRJNA1330252)	F=5.234		2,28	0.0117	Friedman Q=5.733, P=0.0569; winter is the only season from PRJNA1159715
+interaction_both_arms_ge_1000	blocks where both arms exceed 1,000 fungal reads	not estimable				only 14 of 60 blocks qualify, across 11 sites, with n=1 in two season cells; the site-blocked model has zero residual df. Reported as a limitation, not as a null.
+residual_normality	Shapiro-Wilk on the residuals of the site-blocked season model	W=0.9852		42	0.6809	skewness +0.313, excess kurtosis +0.261
+residual_homoscedasticity	Brown-Forsythe across the four seasons	W=0.5054		3,56	0.6802	per-season residual SD 2.61/1.99/2.88/2.46; variance ratio 2.09 against 3.84 for the raw differences
+interaction_rank_transformed	season x substrate on ranks of the block differences	F=6.530		3,42	0.0010	distribution-free refit of the primary test
+interaction_kruskal_sitedemeaned	Kruskal-Wallis on site-demeaned block differences	H=19.249		3	0.00024	distribution-free refit of the primary test

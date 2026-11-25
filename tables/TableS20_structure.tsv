@@ -1,0 +1,37 @@
+site	arm	fungal_reads	genera_observed	rarefy_depth	expected_genera_rarefied	simpson_D_unbiased	inverse_simpson	shannon	top_genus	top_genus_pct
+A0	plastic	1337	27	841	23.65	0.393262	2.5428	1.4686	Trichoderma	59.99
+A0	surface_control	841	25	841	25.00	0.535414	1.8677	1.2505	Fusarium	72.53
+B0	plastic	1511	25	326	15.72	0.445266	2.2458	1.3343	Fusarium	64.33
+B0	surface_control	326	19	326	19.00	0.531288	1.8822	1.2023	Colletotrichum	72.09
+C1	plastic	1143	21	254	13.51	0.341813	2.9256	1.5509	Candida	54.07
+C1	surface_control	254	20	254	20.00	0.218854	4.5693	2.0806	Cordyceps	43.31
+C2	plastic	16068	28	109	6.77	0.576242	1.7354	0.9609	Pichia	74.68
+C2	surface_control	109	14	109	14.00	0.357119	2.8002	1.5832	Fusarium	57.80
+D1	plastic	55283	27	103	6.50	0.454644	2.1995	1.1019	Pichia	62.35
+D1	surface_control	103	14	103	14.00	0.108129	9.2482	2.3047	Penicillium	16.50
+D2	plastic	1954	29	1771	28.37	0.499618	2.0015	1.2347	Sordaria	69.09
+D2	surface_control	1771	25	1771	25.00	0.619381	1.6145	0.9753	Aspergillus	77.98
+E0	plastic	40844	27	206	8.17	0.417726	2.3939	1.1612	Lodderomyces	55.84
+E0	surface_control	206	17	206	17.00	0.262325	3.8121	1.8351	Fusarium	47.57
+F1	plastic	3458	32	113	12.81	0.246250	4.0609	1.9107	Cordyceps	44.91
+F1	surface_control	113	10	113	10.00	0.480247	2.0823	1.2155	Fusarium	68.14
+F2	plastic	1932	30	1932	30.00	0.351968	2.8412	1.4784	Fusarium	48.29
+F2	surface_control	5539	23	1932	15.57	0.810444	1.2339	0.5110	Cercospora	89.89
+F3	plastic	8343	25	1266	13.05	0.461211	2.1682	1.0592	Pichia	61.55
+F3	surface_control	1266	34	1266	34.00	0.346185	2.8886	1.5052	Fusarium	46.92
+G1	plastic	2061	24	727	18.75	0.300810	3.3244	1.5673	Pichia	38.82
+G1	surface_control	727	26	727	26.00	0.454837	2.1986	1.4231	Fusarium	66.16
+G2	plastic	379	16	379	16.00	0.243163	4.1125	1.7335	Colletotrichum	36.94
+G2	surface_control	1033	28	379	20.34	0.316715	3.1574	1.7118	Fusarium	52.57
+H0	plastic	206857	30	128	3.58	0.816910	1.2241	0.3941	Pichia	90.00
+H0	surface_control	128	19	128	19.00	0.093504	10.6947	2.5247	Saccharomyces	17.19
+I0	plastic	1524	17	607	13.56	0.458133	2.1828	1.2239	Pichia	65.29
+I0	surface_control	607	14	607	14.00	0.279093	3.5830	1.6611	Fusarium	48.27
+J0	plastic	3504	24	3504	24.00	0.369882	2.7036	1.3422	Pichia	52.43
+J0	surface_control	3568	16	3504	15.91	0.910663	1.0981	0.2737	Fusarium	95.40
+
+statistic	value	n	signrank_P
+mean_dInverseSimpson_MP_minus_NP	-0.9379	15	0.6788
+mean_dTopGenusShare_pp	0.4154	15	0.9341
+complexity_regression_slope	0.4718	686	
+complexity_regression_R2	0.5597	686	

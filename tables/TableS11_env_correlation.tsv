@@ -1,0 +1,121 @@
+variable_i	variable_j	spearman_rho	P	n
+Water temperature	Precipitation	0.4168	0.0009234	60
+Water temperature	Water velocity	0.1271	0.3331	60
+Water temperature	Turbidity	0.1036	0.4308	60
+Water temperature	Salinity	0.0842	0.5226	60
+Water temperature	pH	-0.0780	0.5536	60
+Water temperature	Dissolved oxygen	-0.1332	0.3102	60
+Water temperature	Chemical oxygen demand	-0.2101	0.1071	60
+Water temperature	Total nitrogen	0.0633	0.6311	60
+Water temperature	Total phosphorus	-0.2524	0.05172	60
+Water temperature	Sulfate	0.1540	0.2399	60
+Water temperature	Microplastic concentration	-0.1595	0.2236	60
+Water temperature	Altitude	-0.0341	0.7958	60
+Water temperature	River length	-0.0594	0.6886	48
+Water temperature	Upstream area	0.0822	0.5468	56
+Water temperature	Upstream population	0.1578	0.2285	60
+Precipitation	Water velocity	0.1361	0.2996	60
+Precipitation	Turbidity	0.0791	0.5479	60
+Precipitation	Salinity	-0.0246	0.852	60
+Precipitation	pH	0.0038	0.9771	60
+Precipitation	Dissolved oxygen	-0.1453	0.268	60
+Precipitation	Chemical oxygen demand	0.0069	0.9586	60
+Precipitation	Total nitrogen	0.1403	0.2851	60
+Precipitation	Total phosphorus	-0.0677	0.607	60
+Precipitation	Sulfate	0.0700	0.5954	60
+Precipitation	Microplastic concentration	0.0030	0.9817	60
+Precipitation	Altitude	-0.0679	0.6064	60
+Precipitation	River length	0.0636	0.6674	48
+Precipitation	Upstream area	0.0087	0.9493	56
+Precipitation	Upstream population	-0.0153	0.9075	60
+Water velocity	Turbidity	-0.1552	0.2363	60
+Water velocity	Salinity	-0.2450	0.05918	60
+Water velocity	pH	-0.2178	0.0945	60
+Water velocity	Dissolved oxygen	0.1170	0.3732	60
+Water velocity	Chemical oxygen demand	0.0082	0.9502	60
+Water velocity	Total nitrogen	0.1505	0.2509	60
+Water velocity	Total phosphorus	0.0345	0.7934	60
+Water velocity	Sulfate	-0.1510	0.2495	60
+Water velocity	Microplastic concentration	-0.2151	0.09881	60
+Water velocity	Altitude	0.2844	0.02763	60
+Water velocity	River length	0.2251	0.124	48
+Water velocity	Upstream area	-0.1113	0.4142	56
+Water velocity	Upstream population	-0.2987	0.02044	60
+Turbidity	Salinity	0.0360	0.785	60
+Turbidity	pH	0.0902	0.4931	60
+Turbidity	Dissolved oxygen	-0.3627	0.004405	60
+Turbidity	Chemical oxygen demand	0.2133	0.1018	60
+Turbidity	Total nitrogen	0.3353	0.008824	60
+Turbidity	Total phosphorus	0.3867	0.002271	60
+Turbidity	Sulfate	0.0873	0.5072	60
+Turbidity	Microplastic concentration	0.1140	0.3856	60
+Turbidity	Altitude	-0.4084	0.001197	60
+Turbidity	River length	0.2944	0.04225	48
+Turbidity	Upstream area	0.1132	0.4061	56
+Turbidity	Upstream population	0.3608	0.004624	60
+Salinity	pH	0.0858	0.5145	60
+Salinity	Dissolved oxygen	-0.5570	3.797e-06	60
+Salinity	Chemical oxygen demand	0.4516	0.0002927	60
+Salinity	Total nitrogen	0.2987	0.02045	60
+Salinity	Total phosphorus	0.2645	0.0411	60
+Salinity	Sulfate	0.6227	1.082e-07	60
+Salinity	Microplastic concentration	0.3050	0.0178	60
+Salinity	Altitude	-0.4210	0.0008102	60
+Salinity	River length	0.0177	0.9049	48
+Salinity	Upstream area	0.2980	0.02569	56
+Salinity	Upstream population	0.5017	4.437e-05	60
+pH	Dissolved oxygen	0.1794	0.1703	60
+pH	Chemical oxygen demand	0.0493	0.7085	60
+pH	Total nitrogen	0.0030	0.9821	60
+pH	Total phosphorus	0.0507	0.7003	60
+pH	Sulfate	0.0676	0.6079	60
+pH	Microplastic concentration	0.1824	0.1631	60
+pH	Altitude	0.1219	0.3534	60
+pH	River length	-0.1543	0.295	48
+pH	Upstream area	-0.0316	0.8174	56
+pH	Upstream population	0.4033	0.001398	60
+Dissolved oxygen	Chemical oxygen demand	-0.4123	0.001063	60
+Dissolved oxygen	Total nitrogen	-0.4377	0.0004701	60
+Dissolved oxygen	Total phosphorus	-0.4097	0.001151	60
+Dissolved oxygen	Sulfate	-0.3774	0.002956	60
+Dissolved oxygen	Microplastic concentration	-0.1266	0.3353	60
+Dissolved oxygen	Altitude	0.5629	2.844e-06	60
+Dissolved oxygen	River length	-0.5068	0.0002374	48
+Dissolved oxygen	Upstream area	-0.4672	0.0002833	56
+Dissolved oxygen	Upstream population	-0.4104	0.001128	60
+Chemical oxygen demand	Total nitrogen	0.4392	0.0004468	60
+Chemical oxygen demand	Total phosphorus	0.6864	1.42e-09	60
+Chemical oxygen demand	Sulfate	0.3651	0.004125	60
+Chemical oxygen demand	Microplastic concentration	0.3006	0.01961	60
+Chemical oxygen demand	Altitude	-0.2277	0.08013	60
+Chemical oxygen demand	River length	0.3727	0.009084	48
+Chemical oxygen demand	Upstream area	0.2800	0.03662	56
+Chemical oxygen demand	Upstream population	0.2200	0.09118	60
+Total nitrogen	Total phosphorus	0.6963	6.522e-10	60
+Total nitrogen	Sulfate	0.3872	0.002241	60
+Total nitrogen	Microplastic concentration	0.0659	0.617	60
+Total nitrogen	Altitude	-0.2908	0.0242	60
+Total nitrogen	River length	0.4772	0.0006047	48
+Total nitrogen	Upstream area	0.2647	0.04864	56
+Total nitrogen	Upstream population	0.4174	0.0009058	60
+Total phosphorus	Sulfate	0.2832	0.02834	60
+Total phosphorus	Microplastic concentration	0.2014	0.1228	60
+Total phosphorus	Altitude	-0.3768	0.002999	60
+Total phosphorus	River length	0.4439	0.001576	48
+Total phosphorus	Upstream area	0.2202	0.103	56
+Total phosphorus	Upstream population	0.3342	0.009057	60
+Sulfate	Microplastic concentration	0.1260	0.3376	60
+Sulfate	Altitude	-0.3811	0.002665	60
+Sulfate	River length	-0.0020	0.9894	48
+Sulfate	Upstream area	0.1302	0.3388	56
+Sulfate	Upstream population	0.3633	0.004327	60
+Microplastic concentration	Altitude	0.0084	0.9491	60
+Microplastic concentration	River length	0.0500	0.736	48
+Microplastic concentration	Upstream area	0.1997	0.14	56
+Microplastic concentration	Upstream population	0.1172	0.3724	60
+Altitude	River length	-0.2354	0.1073	48
+Altitude	Upstream area	-0.2725	0.04215	56
+Altitude	Upstream population	-0.4641	0.0001879	60
+River length	Upstream area	0.7746	1.044e-10	48
+River length	Upstream population	0.2234	0.1269	48
+Upstream area	Upstream population	0.3289	0.01333	56

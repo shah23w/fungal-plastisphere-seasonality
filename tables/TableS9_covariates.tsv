@@ -1,0 +1,20 @@
+analysis	covariate	observed_slope_perSD	MDES_perSD	obs_over_MDES	P	n_or_t	VIF
+univariate_bound	antecedent_rain_3d_mm	1.1747	1.1279	1.042	0.007296	15	
+univariate_bound	water_temp_C	1.6047	1.5630	1.027	0.007937	15	
+univariate_bound	antecedent_rain_7d_mm	1.5837	1.5584	1.016	0.008524	15	
+univariate_bound	precip_mm_day	2.4814	4.7329	0.524	0.1365	15	
+univariate_bound	velocity_m_s	10.5927	26.2194	0.404	0.2436	15	
+univariate_bound	total_MPs_per_L	-1.9012	4.7995	0.396	0.2525	15	
+univariate_bound	SO4_ug_L	-40.8226	106.0340	0.385	0.2655	15	
+univariate_bound	TP_ug_L	-4.2688	13.5017	0.316	0.357	15	
+univariate_bound	pH	-2.1123	7.9372	0.266	0.4361	15	
+univariate_bound	COD_mg_L	3.7685	14.4746	0.260	0.4459	15	
+univariate_bound	antecedent_rain_1d_mm	2.8750	15.7520	0.183	0.5911	15	
+univariate_bound	DO_mg_L	-2.1778	12.6083	0.173	0.6109	15	
+univariate_bound	turbidity_NTU	1.5475	19.8307	0.078	0.8175	15	
+univariate_bound	TN_ug_L	0.1573	3.6841	0.043	0.8995	15	
+univariate_bound	salinity_psu	-1.0544	89.4187	0.012	0.9742	13	
+multivariable_sitedemeaned_betaperSD	water_temp_C	1.4055			0.005393	2.9385	1.49
+multivariable_sitedemeaned_betaperSD	COD_mg_L	0.5936			0.2054	1.2867	1.39
+multivariable_sitedemeaned_betaperSD	TN_ug_L	0.2660			0.592	0.5402	1.58
+multivariable_sitedemeaned_betaperSD	TP_ug_L	-0.5733			0.3169	-1.0133	2.08

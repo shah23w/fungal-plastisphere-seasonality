@@ -1,0 +1,7 @@
+study	system	date	season_SH	n_plastic	n_control	difference_log2
+PRJNA1163745	Auckland marina	2020-06	Winter	30	3	-0.4865
+PRJNA1163745	Auckland marina	2020-12	Summer	28	3	0.4071
+PRJNA1163745	Auckland marina	2021-03	Autumn	30	3	-0.1728
+PRJNA1134258	NZ polishing pond	2020-08	Winter	30	6	-0.0434
+PRJNA1134258	NZ polishing pond	2021-01	Summer	15	3	0.2103
+PRJNA1134258	NZ polishing pond	2021-07	Winter	15	2	-0.5400
